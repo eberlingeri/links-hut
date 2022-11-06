@@ -23,7 +23,7 @@ My intention is to complete a _Linktr.ee_ clone to include as part of my dev por
 ---
 ### Agile and Scrum ⏰
 
-> I need to organize prioritize and organize my work, so what better way then Scrum.
+> I need to organize and prioritize  my work, so what better way then Scrum.
 
 The idea is to make use of the artifacts and events as described by the [Scrum Guide](https://www.scrum.org/resources/scrum-guide). I will be creating User Stories for each feature, creating a backlog, working in sprints, developing a Definition of Done, and performing some semblance of estimation.
 
