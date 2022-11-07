@@ -2,7 +2,7 @@
 
 My intention is to complete a _Linktr.ee_ clone to include as part of my dev portfolio. Initially I have thought of the following features:
 
-> ⚠️ ***DISCLAIMER:***  I don't have a _Linktr.ee_ acount,  <mark>so I don't know what it actually</mark> does.
+> ⚠️ ***DISCLAIMER:***  I don't have a _Linktr.ee_ acount, so I don't know what it actually does.
 
 - Login / Signup 
 	- Do I need a security levels setup? Is it enough to have just the user as Admin?
