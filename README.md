@@ -1,15 +1,8 @@
 # 🛖 Welcome to the Links Hut Repo!
 
-[[#The Tech Stack 👾 ]]
-[[#^8c9d57|Disclaimer]]
-[Obsidian WebPage](https://obsidian.md)
-
-
 My intention is to complete a _Linktr.ee_ clone to include as part of my dev portfolio. Initially I have thought of the following features:
 
 > ⚠️ ***DISCLAIMER:***  I don't have a _Linktr.ee_ acount, so I don't know what it actually does.
-
-^8c9d57
 
 - Login / Signup 
 	- Do I need a security levels setup? Is it enough to have just the user as Admin?
@@ -26,7 +19,6 @@ My intention is to complete a _Linktr.ee_ clone to include as part of my dev por
 - Add/Edit the page description
 - Add/Edit the page title
 - Add/Remove/Edit social media buttons
-- [ ] this is a test
 
 ## Agile and Scrum ⏰
 
