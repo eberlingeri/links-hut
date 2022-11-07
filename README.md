@@ -2,11 +2,11 @@
 
 My intention is to complete a _Linktr.ee_ clone to include as part of my dev portfolio. Initially I have thought of the following features:
 
-> [!summary]+ Note summary on this
+> 📝  ***SUMMARY***
 > This is the actual content of the summary for the note
 
 
-> <span style="color: red; font-weight:bold;font-style:italic">DISCLAIMER:</span>  I don't have a _Linktr.ee_ acount, so I don't know what it actually does 🤷‍♂️ 
+> ⚠️ ***DISCLAIMER:***  I don't have a _Linktr.ee_ acount, so I don't know what it actually does.
 
 - Login / Signup 
 	- Do I need a security levels setup? Is it enough to have just the user as Admin?
@@ -33,7 +33,7 @@ The idea is to make use of the artifacts and events as described by the [Scrum G
 
 I will keep most of the documentation here, and provide links to any additional sites or apps that I  use. 
 
-For now i will use [Jira](https://www.atlassian.com/software/jira)as my project management solution.
+For now i will use [Jira](https://www.atlassian.com/software/jira) as my project management solution.
 
 ---
 ### The Tech Stack 👾
