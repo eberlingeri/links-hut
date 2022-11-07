@@ -6,7 +6,7 @@ My intention is to complete a _Linktr.ee_ clone to include as part of my dev por
 > This is the actual content of the summary for the note
 
 
->__DISCLAIMER:__ I don't have a _Linktr.ee_ acount, so I don't know what it actually does 🤷‍♂️ 
+> <span style="color: red; font-weight:bold;font-style:italic">DISCLAIMER:</span>  I don't have a _Linktr.ee_ acount, so I don't know what it actually does 🤷‍♂️ 
 
 - Login / Signup 
 	- Do I need a security levels setup? Is it enough to have just the user as Admin?
