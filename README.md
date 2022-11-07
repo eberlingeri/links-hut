@@ -1,13 +1,8 @@
-## 🛖 Welcome to the Links Hut Repo!
+# 🛖 Welcome to the Links Hut Repo!
 
 My intention is to complete a _Linktr.ee_ clone to include as part of my dev portfolio. Initially I have thought of the following features:
 
-> 📝  ***SUMMARY***
-> 
-> This is the actual content of the summary for the note
-
-
-> ⚠️ ***DISCLAIMER:***  I don't have a _Linktr.ee_ acount, so I don't know what it actually does.
+> ⚠️ ***DISCLAIMER:***  I don't have a _Linktr.ee_ acount,  <mark>so I don't know what it actually</mark> does.
 
 - Login / Signup 
 	- Do I need a security levels setup? Is it enough to have just the user as Admin?
@@ -25,8 +20,8 @@ My intention is to complete a _Linktr.ee_ clone to include as part of my dev por
 - Add/Edit the page title
 - Add/Remove/Edit social media buttons
 
----
-### Agile and Scrum ⏰
+
+## Agile and Scrum ⏰
 
 > I need to organize and prioritize  my work, so what better way then Scrum.
 
@@ -36,8 +31,9 @@ I will keep most of the documentation here, and provide links to any additional 
 
 For now i will use [Jira](https://www.atlassian.com/software/jira) as my project management solution.
 
----
-### The Tech Stack 👾
+
+## The Tech Stack 👾
+
 > ⚡️ This may change as I begin working on the project, but for now this is it.
 
 - HTML5, CSS3
