@@ -2,12 +2,16 @@
 
 My intention is to complete a _Linktr.ee_ clone to include as part of my dev portfolio. Initially I have thought of the following features:
 
+> [!summary]+ Note summary on this
+> This is the actual content of the summary for the note
+
+
 >__DISCLAIMER:__ I don't have a _Linktr.ee_ acount, so I don't know what it actually does 🤷‍♂️ 
 
 - Login / Signup 
 	- Do I need a security levels setup? Is it enough to have just the user as Admin?
-	- Could add a _limited user_ account, but don't see the point yet.
-- Add, Remove, Edit a Link
+	- Could add a ***limited*** user account, but don't see the point yet.
+- Add, Remove, Edit a Link test
 - Upload Profile Picture
 - Background selecition:
 	- Select from Unsplash
