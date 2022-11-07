@@ -3,6 +3,7 @@
 My intention is to complete a _Linktr.ee_ clone to include as part of my dev portfolio. Initially I have thought of the following features:
 
 > 📝  ***SUMMARY***
+> 
 > This is the actual content of the summary for the note
 
 
