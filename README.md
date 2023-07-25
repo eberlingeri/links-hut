@@ -37,5 +37,5 @@ For now i will use [Jira](https://www.atlassian.com/software/jira) as my project
 
 - HTML5, CSS3
 - TailwindCSS (not sure yet)
-- React JS
+- React/Vue
 - Firebase (Authentication and Storage)
